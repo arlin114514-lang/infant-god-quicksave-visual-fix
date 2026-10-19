@@ -1,0 +1,9 @@
+BepInEx 5.4.23.3 (official unmodified Windows x64 build)
+https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.3
+Archive SHA256: 41A089E5B1B1F0713B331346BAF6677B1184C69EABEBF51101097954E854C749
+HarmonyX: https://github.com/BepInEx/HarmonyX
+MonoMod: https://github.com/MonoMod/MonoMod
+Mono.Cecil: https://github.com/jbevain/cecil
+Unity Doorstop: https://github.com/NeighTools/UnityDoorstop
+Source for the repair and bridge is included in Source.
+The original game and user saves are not distributed in this package.
